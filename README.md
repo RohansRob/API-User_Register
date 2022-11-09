@@ -1,4 +1,4 @@
-##  To-do-API:
+##  API with JWT AUTHENTICATION :
 
 starting with the it ...
 
